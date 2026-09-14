@@ -5,5 +5,4 @@ __pycache__/
 .venv/
 venv/
 
-data/minhas_imagens/*
-!data/minhas_imagens/README.md
+data/minhas_imagens/*.tmp
