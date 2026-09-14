@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.env
+.venv/
+venv/
+
+data/minhas_imagens/*
+!data/minhas_imagens/README.md
