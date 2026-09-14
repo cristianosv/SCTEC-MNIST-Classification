@@ -4,6 +4,8 @@ Projeto de classificação de imagens de dígitos manuscritos utilizando a base 
 
 O projeto foi desenvolvido como aplicação prática de técnicas de classificação multiclasse, envolvendo preparação dos dados, normalização, ajuste de hiperparâmetros, treinamento, validação, avaliação em conjunto de teste independente, análise de erros, experimento OOD (Out-of-Distribution) e classificação de imagens próprias.
 
+O vídeo deste material pode ser acessado através do link https://drive.google.com/file/d/1Cchz-2Kv3wg6m796G7KCtvp9bKXNkuqM/view?usp=sharing
+
 ---
 
 ## 1. Objetivo
